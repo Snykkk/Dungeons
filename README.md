@@ -1,2 +1,2 @@
-# DungeonRPG-Wiki
-Welcome to the DungeonRPG wiki! You can learn everything about DungeonRPG.
+# Dungeons Plugin
+Welcome to the Dungeons Plugin wiki! You can learn everything about Dungeons Plugin.
